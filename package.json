@@ -1,0 +1,26 @@
+{
+  "name": "deno-cdn",
+  "version": "1.0.0",
+  "description": "create import url from Github repos with cloudflare worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falentio/deno-cdn.git"
+  },
+  "keywords": [
+    "deno",
+    "cdn",
+    "cloudflare",
+    "worker"
+  ],
+  "author": "Falentio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Falentio/deno-cdn/issues"
+  },
+  "homepage": "https://github.com/Falentio/deno-cdn#readme",
+  "dependencies": {}
+}

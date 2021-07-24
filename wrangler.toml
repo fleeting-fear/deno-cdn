@@ -1,0 +1,9 @@
+name = "test"
+type = "javascript"
+route = ''
+zone_id = ''
+usage_model = ''
+workers_dev = true
+
+[vars]
+USERNAME="Falentio"
