@@ -18,7 +18,7 @@ Without Anxiety to be stealed.
 ## Usage
 ```javascript
 //import from your-repo-name/mod.ts
-import * from "https://yourdomain.com/your-repo-name"
+import * from "https://yourdomain.com/your-repo-name/"
 //import from your-repo-name/mod.ts in 2.0.0 realases
 import * from "https://yourdomain.com/your-repo-name@2.0.0/"
 //import from your-private-repo/mod.ts
